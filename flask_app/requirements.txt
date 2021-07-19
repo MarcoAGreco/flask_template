@@ -1,0 +1,13 @@
+Cython
+requests~=2.25.1
+beautifulsoup4~=4.9.3
+loguru~=0.5.3
+pytest
+pytest-runner
+Flask
+Jinja2
+Werkzeug
+Flask-Bootstrap4
+Flask-WTF
+gunicorn
+
